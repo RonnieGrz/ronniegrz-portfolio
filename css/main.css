@@ -1,0 +1,94 @@
+body
+{
+    background: url("../img/fondo.png");
+
+}
+
+.section white{
+           background: url("../img/fondo.png");
+}
+.container-slider{
+    width: 100%;
+    height: 100%;
+}
+
+p{
+    font-weight:400;
+}
+
+nav{
+    background: rgba(100,0,0,0.7);
+}
+
+h2, h5{
+    font-family: 'Indie Flower', cursive;
+}
+
+
+nav ul a, nav .brand-logo{
+    color: white;
+}
+
+.container-footer{
+    width: 100%;
+    height: 100px;
+    background: rgba(100,0,0,0.5);
+}
+
+.container-presentation{
+    width: 80%;
+    height: 600px;
+    
+}
+
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: white;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
+
+#front-page-logo{
+    width:80px;
+    height: 80px;
+}
+
+o{
+    font-size: 40px;
+}
+
+.icon-youtube{
+    color: #b31217;
+}
+
+.icon-facebook-official{
+    color: #3b5998;
+}
+
+h2, h5{
+    font-family: 'Roboto', sans-serif;
+}
